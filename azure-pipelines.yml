@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  vmImage: ubuntu-latest
+  name: 'Kellys-MBP'
 
 steps:
 - script: echo Hello, world!
