@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  name: 'Kellys-MBP'
+  name: 'Default'
 
 steps:
 - script: echo Hello, world!
